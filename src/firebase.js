@@ -4,13 +4,14 @@ import { getAuth } from "firebase/auth";
 import { getFirestore, collection } from "firebase/firestore";
 
 // Your web app's Firebase configuration
+// Api Keys Removed for privacy purposes
 const firebaseConfig = {
-    apiKey: "AIzaSyAh5o4U0Xx-qlg3iF42jR4XZz4E-4dFq6U",
-    authDomain: "antler-task.firebaseapp.com",
-    projectId: "antler-task",
-    storageBucket: "antler-task.appspot.com",
-    messagingSenderId: "589035664453",
-    appId: "1:589035664453:web:4f3db0a55c873da4d81f2c"
+    apiKey: "dummy",
+    authDomain: "dummy",
+    projectId: "dummy",
+    storageBucket: "dummy",
+    messagingSenderId: "dummy",
+    appId: "dummy"
 };
 
 // Initialize Firebase
